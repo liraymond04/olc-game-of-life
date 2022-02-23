@@ -15,6 +15,8 @@
 | Space | Simulate step |
 | P | Play |
 | O | Reverse |
+| - | Decrease speed |
+| = | Increase speed |
 | Left arrow | Step back |
 | Right arrow | Step forward |
 | Ctrl + Left arrow | Jump to front |
