@@ -1,5 +1,5 @@
 # olc-game-of-life
- Implementation John Conway's Game of Life in the One Lone Coder game engine.
+ Implementation John Conway's Game of Life in the olcPixelGameEngine.
 
 ![olc-pixel-game-engine](https://media.giphy.com/media/sdDDM08AQe9fypTN5P/giphy-downsized-large.gif)
 
