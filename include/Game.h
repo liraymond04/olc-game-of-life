@@ -15,6 +15,10 @@ public:
 		sAppName = "Conway's Game of Life";
 	}
 
+	~Game() {
+		delete sprMouse;
+	}
+
 private:
 	/* Map */
 	olc::vi2d vMapSize = { 32, 24 };
